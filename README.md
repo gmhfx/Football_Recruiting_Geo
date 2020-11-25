@@ -21,7 +21,7 @@ http://www.espn.com/college-sports/football/recruiting/rankings
 
 ## Chart Descriptions
 
-ESPN 150 college football recruits summarized by state, county and high school using FIPS coordinateds (county) and geo-location by long/lat (high school).
+ESPN 150 college football recruits summarized by state, county and high school using FIPS coordinates (county) and geo-location by long/lat (high school).
 
 https://gmhfx.github.io/Choropleth-Map/
 
